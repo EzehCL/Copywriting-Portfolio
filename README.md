@@ -18,7 +18,7 @@ Grill indoors anytime! TasteMate Electric Grill cooks meat, veggies, and fish ev
 -	Product: SparkWave Bluetooth Earbuds
 Experience rich sound and deep bass with SparkWave. Wireless, comfortable, and long-lasting battery life for music lovers on the go. 
 
-### Project 2
+### Project 2: Persuasive ads for Facebook and Instagram
 -Description: Crafting scroll-stopping ads on both Instagram and Facebook that capture attention, spark interest, and drive clicks, leads, and sales.
 
 -Goal: The goal of social media ads copywriting is to capture attention, engage the audience, and drive specific actions like clicks, leads, or sales.
@@ -29,6 +29,7 @@ Headline: Transform Your Body in 30 Days
 
 Call to Action: Start Your Transformation Today.
 -	Product: GlowSkin Serum
+  
 Want radiant skin in just 7 days?
 
 Headline: GlowSkin Serum nourishes your skin with natural ingredients for that youthful glow.
