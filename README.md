@@ -271,3 +271,8 @@ Bachelor of Science (BSc) in Industrial Engineering & Management at the Departme
 - Abia State Polytechnic, Aba, Abia State, Nigeria							                                                  2010 – 2015
 Higher National Diploma (HND) in Business Administration & Management at the School of Business Management and Technology (SBMT)
 
+# Certification
+- Copywriting Essentials – Udemy						                                                           Sept. 2024 – April 2025
+- Social Media Marketing & Ad Copy – LinkedIn Learning
+
+
