@@ -3,6 +3,7 @@ Results-driven copywriter portfolio showcasing persuasive landing pages, email c
 ## Project: 
 ### Project 1 Products Description
 -Description: These are clear, persuasive product descriptions that highlight benefits, build trust, and turn browsers into buyers
+
 -Goal: This is to increase product appeal and online sales
 -	Product: Zealot S39 Bluetooth Speaker
 Experience powerful sound anywhere with the Zealot S39 Portable Bluetooth Speaker. Designed for deep bass and crystal-clear audio, it connects effortlessly to your smartphone and delivers hours of uninterrupted music. Perfect for travel, outdoor adventures, and everyday listening.
