@@ -144,7 +144,7 @@ Social Proof Section:
 Homepage
 
 
-Headline
+Headline:
 
 Natural Wellness for a Healthier Life.
 
@@ -152,7 +152,7 @@ Sub-headline:
 Premium herbal supplements carefully formulated to support your health, boost energy, and improve overall wellbeing naturally.
 
 
-About Us
+About Us:
 
 At GreenLife Herbal Supplements, we believe that nature provides powerful solutions for maintaining good health. Our mission is to create high-quality herbal supplements made from carefully selected natural ingredients.
 
@@ -161,7 +161,7 @@ Our products are developed using traditional herbal knowledge combined with mode
 We are committed to helping individuals improve their well-being through trusted natural health solutions.
 
 
-Our Products
+Our Products:
 
 Immune Support Formula:
 A powerful blend of natural herbs designed to help strengthen the body's immune system and promote overall wellness.
@@ -173,7 +173,7 @@ Detox Herbal Blend:
 A gentle herbal formula designed to support the body's natural detoxification process and promote digestive health.
 
 
-Why Choose Our Herbal Supplements
+Why Choose Our Herbal Supplements:
 
 Natural Ingredients
 Our supplements are made with carefully sourced herbal ingredients.
@@ -184,18 +184,19 @@ Every product is produced under strict quality standards to ensure purity and sa
 Holistic Wellness
 Our formulas are designed to support overall health and balance.
 
-Our Commitment
+Our Commitment:
 
 We are dedicated to providing herbal supplements that support healthier lifestyles while maintaining transparency and quality in everything we do.
 
 
-Call to Action
+Call to Action:
 
 Take the natural path to better health.
 Explore our herbal supplements today and start your journey toward improved wellness.
 
 
-Contact Us
+Contact Us:
+
 Have questions about our products?
 
 Our team is ready to help you choose the right herbal supplements for your health goals.
@@ -204,16 +205,15 @@ Contact us today to learn more.
 
 - Homepage Content – Digital Marketing Agency
 
-Headline
+Headline:
+
 Helping Businesses Grow Through Smart Digital Marketing.
 
-Subheadline
-We provide strategic digital marketing solutions that help brands increase visibility, attract custom
+Subheadline:
 
-Subheadline
 We provide strategic digital marketing solutions that help brands increase visibility, attract customers, and drive business growth.
 
-About the Company
+About the Company:
 
 Our team specializes in creating effective marketing strategies tailored to each client's business goals. From content creation to online advertising, we help businesses reach the right audience and build a strong online presence.
 
@@ -227,11 +227,11 @@ Email Marketing Campaigns
 Website Content Writing
 
 
-Why Choose Us
+Why Choose Us:
 
 We combine creativity, data-driven strategies, and industry insights to deliver marketing solutions that produce measurable results.
 
-Call to Action
+Call to Action:
 
 Ready to grow your business online?
 Contact us today to discuss your marketing goals.
