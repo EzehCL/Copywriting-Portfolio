@@ -38,6 +38,7 @@ Headline: GlowSkin Serum nourishes your skin with natural ingredients for that y
 Order now and get 1 free travel-size bottle!
 
 -	Product: FlexFit Yoga Mat
+  
 Stretch. Sweat. Shine. 
 
 FlexFit Yoga Mat keeps you comfortable during your workouts with non-slip grip and extra cushioning.
@@ -46,6 +47,7 @@ Perfect for home workouts or studio classes!
 Tap “Shop Now” and start your fitness journey!
 
 -	Product: Luxury 3-Bedroom Duplex (Real Estate Ad)
+  
 Own Your Dream Home in Port Harcourt!
 
 Spacious 3-bedroom duplex with modern design, secure estate, and steady power supply.
@@ -56,6 +58,7 @@ Limited units available – don’t miss out!
 Call now to book a viewing and secure your home today!
 
 -	Event: Sunday Revival Service
+  
 Join Us for a Life-Changing Sunday Service!
 
 Experience powerful worship, inspiring sermons, and a community that cares.
