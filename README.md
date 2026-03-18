@@ -10,7 +10,7 @@ Results-driven copywriter portfolio showcasing persuasive landing pages, email c
 -	Brand Voice & Messaging
 -	Social Media Ad Copy
 -	Content Editing & Proofreading
-  
+
 # Tools
 - Grammarly
 -	Google Docs 
