@@ -266,9 +266,11 @@ Contact us today to discuss your marketing goals.
 
 # Education
 - Fontys University of Applied Sciences, Eindhoven, The Netherlands				                                      	2019 – 2023
+  
 Bachelor of Science (BSc) in Industrial Engineering & Management at the Department of Industrial Engineering and Management.
 
 - Abia State Polytechnic, Aba, Abia State, Nigeria							                                                  2010 – 2015
+
 Higher National Diploma (HND) in Business Administration & Management at the School of Business Management and Technology (SBMT)
 
 # Certification
