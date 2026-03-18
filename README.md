@@ -110,8 +110,9 @@ Start Coding → Enrol now
 
 ### Project 4: Landing Page 
 -Description: Persuasive content that turns traffic into action.
+
 -Goal:  is to capture attention, clearly communicate value, and drive visitors to take a specific action—whether that’s signing up, purchasing, or downloading.
-•	Product: SmartHome Hub
+- Product: SmartHome Hub
 
 Headline: Control Your Entire Home from One Place 
 
