@@ -16,8 +16,8 @@ Results-driven copywriter portfolio showcasing persuasive landing pages, email c
 -	ChatGPT
 -	Canva
 
-## Projects: 
-### Project 1 Products Description
+## Projects
+### Project 1:Products Description
 -Description: These are clear, persuasive product descriptions that highlight benefits, build trust, and turn browsers into buyers
 
 -Goal: This is to increase product appeal and online sales
@@ -252,3 +252,4 @@ Call to Action:
 Ready to grow your business online?
 Contact us today to discuss your marketing goals.
 
+## Projects
