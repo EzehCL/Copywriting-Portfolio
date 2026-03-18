@@ -1,14 +1,20 @@
 # Copywriting-Portfolio
 Results-driven copywriter portfolio showcasing persuasive landing pages, email campaigns, product descriptions, and SEO content. Focused on conversion, brand voice, and audience engagement and built to demonstrate creativity, strategy, and real-world marketing impact.
 # Core Skills
-•	Copywriting & Persuasive Writing
-•	Website & SEO Content Writing
-•	Product Descriptions (E-commerce)
-•	Email Marketing Copy
-•	Landing Page Copy
-•	Brand Voice & Messaging
-•	Social Media Ad Copy
-•	Content Editing & Proofreading
+-	Copywriting & Persuasive Writing
+-	Website & SEO Content Writing
+-	Product Descriptions (E-commerce)
+-	Email Marketing Copy
+-	Landing Page Copy
+-	Brand Voice & Messaging
+-	Social Media Ad Copy
+-	Content Editing & Proofreading
+# Tools
+- Grammarly
+-	Google Docs 
+-	Google trend
+-	ChatGPT
+-	Canva
 
 ## Projects: 
 ### Project 1 Products Description
