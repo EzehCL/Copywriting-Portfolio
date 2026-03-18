@@ -106,7 +106,8 @@ Join thousands of students who have built websites, apps, and launched careers i
 
 Enrol today and get free access to our coding community!
 
-Start Coding → [Enrol Now]
+Start Coding → Enrol now
+
 ### Project 4: Landing Page 
 -Description: Persuasive content that turns traffic into action.
 -Goal:  is to capture attention, clearly communicate value, and drive visitors to take a specific action—whether that’s signing up, purchasing, or downloading.
