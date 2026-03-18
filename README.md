@@ -14,7 +14,7 @@ Results-driven copywriter portfolio showcasing persuasive landing pages, email c
 # Tools
 - Grammarly
 -	Google Docs 
--	Google trend
+-	Google Trends
 -	ChatGPT
 -	Canva
   
