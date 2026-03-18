@@ -77,7 +77,7 @@ Perfect for weddings, parties, and casual wear.
 
 Shop now & get FREE delivery within Abuja!
 
-- Note:These ads follow the AIDA & 4U formulas:
+-Note: These ads follow the AIDA & 4U formulas:
 Grab Attention (emojis, bold headlines)
 Build Interest (benefits, features)
 Create Desire (limited stock, special perks)
