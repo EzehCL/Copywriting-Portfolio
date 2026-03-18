@@ -280,6 +280,6 @@ Bachelor of Science (BSc) in Industrial Engineering & Management at the Departme
 Higher National Diploma (HND) in Business Administration & Management at the School of Business Management and Technology (SBMT)
 
 # Certification
-- Copywriting Essentials – Udemy						                  |                                                      April 2025
-- Social Media Marketing & Ad Copy – LinkedIn Learning                                                               May 2025
+- Copywriting Essentials | Udemy						                  |                                                      April 2025
+- Social Media Marketing & Ad Copy | LinkedIn Learning         |                                                     May 2025
 
