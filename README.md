@@ -83,9 +83,31 @@ Build Interest (benefits, features)
 Create Desire (limited stock, special perks)
 Prompt Action (Call now, Shop now)
 
+### Project 3:Email Marketing Copy 
+-Description: Crafts persuasive emails that engage readers, drive clicks, and boost conversions.
+
+-Goal: To create compelling email copy that captures attention, nurtures relationships, and drives measurable actions such as clicks, leads, and sales.
+-	Wellness Brand
+Subject: Your Health Upgrade Starts Today
+
+Hi there,
+
+Imagine waking up every morning feeling energized, focused, and ready to take on the day. Our natural wellness supplements are designed to help you boost immunity, improve vitality, and live healthier — naturally.
+
+Take the first step toward better health today.
+
+-	Online Coding Course
+Subject: Become a Web Developer in 90 Days 🚀
+
+Hi there,
+
+Dreaming of a high-paying tech career? Our 90-day Web Development Course teaches you everything from HTML to React – no prior experience needed.
+Join thousands of students who have built websites, apps, and launched careers in tech.
+
+Enrol today and get free access to our coding community!
+
+Start Coding → [Enrol Now]
 
 
-
-### Project 3
 ### Project 4
 ### Project 5
