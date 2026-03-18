@@ -123,6 +123,7 @@ One App to Rule Them All
 Voice Control Compatible
 Energy-Saving Smart Automation
 
+
 CTA (Call to Action):
 
 “Get Your SmartHome Hub Today & Transform Your Home!”
@@ -142,20 +143,26 @@ Social Proof Section:
 
 Homepage
 
+
 Headline
+
 Natural Wellness for a Healthier Life.
 
 Sub-headline:
 Premium herbal supplements carefully formulated to support your health, boost energy, and improve overall wellbeing naturally.
 
+
 About Us
+
 At GreenLife Herbal Supplements, we believe that nature provides powerful solutions for maintaining good health. Our mission is to create high-quality herbal supplements made from carefully selected natural ingredients.
 
 Our products are developed using traditional herbal knowledge combined with modern quality standards to ensure safety, effectiveness, and consistency.
 
 We are committed to helping individuals improve their well-being through trusted natural health solutions.
 
+
 Our Products
+
 Immune Support Formula:
 A powerful blend of natural herbs designed to help strengthen the body's immune system and promote overall wellness.
 
@@ -164,6 +171,7 @@ Formulated with natural plant extracts to help support energy levels and reduce 
 
 Detox Herbal Blend:
 A gentle herbal formula designed to support the body's natural detoxification process and promote digestive health.
+
 
 Why Choose Our Herbal Supplements
 
@@ -177,11 +185,15 @@ Holistic Wellness
 Our formulas are designed to support overall health and balance.
 
 Our Commitment
+
 We are dedicated to providing herbal supplements that support healthier lifestyles while maintaining transparency and quality in everything we do.
 
+
 Call to Action
+
 Take the natural path to better health.
 Explore our herbal supplements today and start your journey toward improved wellness.
+
 
 Contact Us
 Have questions about our products?
@@ -202,19 +214,25 @@ Subheadline
 We provide strategic digital marketing solutions that help brands increase visibility, attract customers, and drive business growth.
 
 About the Company
+
 Our team specializes in creating effective marketing strategies tailored to each client's business goals. From content creation to online advertising, we help businesses reach the right audience and build a strong online presence.
 
+
 Our Services:
+
 Search Engine Optimization (SEO)
 Content Marketing
 Social Media Marketing
 Email Marketing Campaigns
 Website Content Writing
 
+
 Why Choose Us
+
 We combine creativity, data-driven strategies, and industry insights to deliver marketing solutions that produce measurable results.
 
 Call to Action
+
 Ready to grow your business online?
 Contact us today to discuss your marketing goals.
 
