@@ -83,7 +83,7 @@ Build Interest (benefits, features)
 Create Desire (limited stock, special perks)
 Prompt Action (Call now, Shop now)
 
-### Project 3:Email Marketing Copy 
+### Project 3: Email Marketing Copy 
 -Description: Crafts persuasive emails that engage readers, drive clicks, and boost conversions.
 
 -Goal: To create compelling email copy that captures attention, nurtures relationships, and drives measurable actions such as clicks, leads, and sales.
@@ -107,7 +107,31 @@ Join thousands of students who have built websites, apps, and launched careers i
 Enrol today and get free access to our coding community!
 
 Start Coding → [Enrol Now]
+### Project 4: Landing Page 
+-Description: Persuasive content that turns traffic into action.
+-Goal:  is to capture attention, clearly communicate value, and drive visitors to take a specific action—whether that’s signing up, purchasing, or downloading.
+•	Product: SmartHome Hub
+
+Headline: Control Your Entire Home from One Place 
+
+Sub headline: The SmartHome Hub connects your lights, thermostat, security, and more — all from your phone.
+
+Features Section:
+One App to Rule Them All
+Voice Control Compatible
+Energy-Saving Smart Automation
+
+CTA (Call to Action):
+
+“Get Your SmartHome Hub Today & Transform Your Home!”
+
+Social Proof Section:
+
+“The SmartHome Hub made my life so easy!” – Jane D., Lagos
+
+“Finally, one app for everything. Love it!” – Tunde A., Abuja
 
 
-### Project 4
+
+
 ### Project 5
