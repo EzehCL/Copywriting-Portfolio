@@ -69,7 +69,7 @@ Order now and get 1 free travel-size bottle!
   
 Stretch. Sweat. Shine. 
 
-FlexFit Yoga Mat keeps you comfortable during your workouts with non-slip grip and extra cushioning.
+FlexFit Yoga Mat keeps you comfortable during your workouts with a non-slip grip and extra cushioning.
 Perfect for home workouts or studio classes!
 
 Tap “Shop Now” and start your fitness journey!
@@ -98,7 +98,7 @@ Come expecting miracles.
 
 - Product: NaijaTrend Ankara Dresses
 
-👗 Stand Out in Style!
+ Stand Out in Style!
 
 NaijaTrend brings you vibrant, 100% locally-made Ankara dresses for every occasion.
 Perfect for weddings, parties, and casual wear.
@@ -125,7 +125,7 @@ Imagine waking up every morning feeling energized, focused, and ready to take on
 Take the first step toward better health today.
 
 -	Online Coding Course
-Subject: Become a Web Developer in 90 Days 🚀
+Subject: Become a Web Developer in 90 Days 
 
 Hi there,
 
