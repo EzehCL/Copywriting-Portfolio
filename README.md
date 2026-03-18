@@ -19,7 +19,7 @@ Results-driven copywriter portfolio showcasing persuasive landing pages, email c
 -	Canva
   
 # Professional Experience
-- Freelance Copywriter – Remote 						                                                           March. 2025 – Present
+- Freelance Copywriter – Remote 						       |                                                            March. 2025 – Present
 
 •	Developing compelling email campaigns and social media posts for 2+ small businesses.
 
@@ -271,16 +271,16 @@ Ready to grow your business online?
 Contact us today to discuss your marketing goals.
 
 # Education
-- Fontys University of Applied Sciences, Eindhoven, The Netherlands				                                      	2019 – 2023
+- Fontys University of Applied Sciences, Eindhoven, The Netherlands		|		                                      	2019 – 2023
   
 Bachelor of Science (BSc) in Industrial Engineering & Management at the Department of Industrial Engineering and Management.
 
-- Abia State Polytechnic, Aba, Abia State, Nigeria							                                                  2010 – 2015
+- Abia State Polytechnic, Aba, Abia State, Nigeria							     |                                             2010 – 2015
 
 Higher National Diploma (HND) in Business Administration & Management at the School of Business Management and Technology (SBMT)
 
 # Certification
-- Copywriting Essentials – Udemy						                                                           Sept. 2024 – April 2025
+- Copywriting Essentials – Udemy						                  |                                         Sept. 2024 – April 2025
 - Social Media Marketing & Ad Copy – LinkedIn Learning
 
 
