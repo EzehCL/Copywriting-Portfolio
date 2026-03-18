@@ -15,6 +15,14 @@ Results-driven copywriter portfolio showcasing persuasive landing pages, email c
 -	Google trend
 -	ChatGPT
 -	Canva
+  
+# Professional Experience
+- Freelance Copywriter – Remote 						                                                           March. 2025 – Present
+
+•	Developed compelling email campaigns and social media posts for 2+ small businesses.
+•	Crafted persuasive product descriptions, improving readability and engagement.
+•	Optimized content for SEO, increasing organic traffic and engagement.
+
 
 # Projects
 ### Project 1:Products Description
