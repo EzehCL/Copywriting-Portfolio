@@ -271,7 +271,8 @@ Ready to grow your business online?
 Contact us today to discuss your marketing goals.
 
 ### Project 6: SEO Articles
-- Skincare Article 
+- Skincare Article
+  
 Title: 5 Effective Skincare Routines for Oily Skin in Nigeria
 
 Oily skin can be frustrating—especially in Nigeria’s hot and humid climate. Excess oil often leads to clogged pores, acne breakouts, and a constant shiny appearance. The good news? With the right skincare routine, you can control oil and maintain healthy, glowing skin.
@@ -294,7 +295,8 @@ Exfoliating removes dead skin cells and prevents clogged pores. Avoid over-exfol
 Final Thoughts
 Consistency is key. With the right routine, oily skin can be managed effectively, giving you a fresh, confident look every day.
 
-2. Real Estate Article (Local Business Content)
+- Real Estate Article (Local Business Content)
+  
 Title: Why You Should Invest in Land in Rivers State Now
 
 Land investment in Rivers State is quickly becoming one of the smartest financial decisions you can make today. With rapid development and increasing demand, property values are rising steadily.
@@ -306,10 +308,10 @@ Areas like Etche, Obio-Akpor, and Eleme are experiencing rapid infrastructure gr
 Compared to Lagos or Abuja, land in Rivers State is still relatively affordable, allowing investors to enter the market early.
 
 3. Flexible Payment Plans
-Many real estate companies now offer installment payment options, making land ownership easier than ever.
+Many real estate companies now offer instalment payment options, making land ownership easier than ever.
 
 4. Secure Documentation
-Genuine land comes with verified documents such as Deed of Assignment and Survey Plan, ensuring your investment is safe.
+Genuine land comes with verified documents such as the Deed of Assignment and the Survey Plan, ensuring your investment is safe.
 
 5. High Return on Investment
 As development continues, land value appreciates significantly over time, giving you excellent returns.
@@ -317,7 +319,7 @@ As development continues, land value appreciates significantly over time, giving
 Conclusion
 Whether you plan to build or resell, investing in land today positions you for financial growth tomorrow.
 
-3. Digital Marketing Article (Professional/Tech Sample)
+- Digital Marketing Article (Professional/Tech Sample)
 
 Title: What Is SEO Content Writing and Why Does It Matter?
 
