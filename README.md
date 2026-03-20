@@ -1,4 +1,4 @@
-# Copywriting/Content Writing-Portfolio
+# Professional Summary
 Results-driven copywriter portfolio showcasing persuasive landing pages, email campaigns, product descriptions, and SEO content. Focused on conversion, brand voice, and audience engagement and built to demonstrate creativity, strategy, and real-world marketing impact.
 
 # Core Skills
@@ -633,11 +633,11 @@ SEO (Search Engine Optimization) content writing is the process of creating cont
 SEO content writing is a powerful tool for businesses looking to grow online. When done correctly, it drives consistent, long-term results.
 
 # Education
-- Fontys University of Applied Sciences, Eindhoven The Netherlands		|		                                        	2019 – 2023
+### Fontys University of Applied Sciences, Eindhoven, The Netherlands		|		                                        	2019 – 2023
   
 Bachelor of Science (BSc) in Industrial Engineering & Management at the Department of Industrial Engineering and Management.
 
-- Abia State Polytechnic, Aba, Abia State, Nigeria							     |                                             2010 – 2015
+### Abia State Polytechnic, Aba, Abia State, Nigeria							     |                                             2010 – 2015
 
 Higher National Diploma (HND) in Business Administration & Management at the School of Business Management and Technology (SBMT)
 
