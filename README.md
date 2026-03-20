@@ -228,9 +228,9 @@ Click the button below to place your order and enjoy fast delivery anywhere in N
 
 What Customers Are Saying
 
-"My dark spots started fading in just a week!" – Chioma A.
+- "My dark spots started fading in just a week!" – Chioma A.
 
-"Perfect for my oily skin. No more shine!" – Tunde K.
+- "Perfect for my oily skin. No more shine!" – Tunde K.
 
 100% Satisfaction Guarantee
 
@@ -238,7 +238,7 @@ If you’re not satisfied, we’ll make it right. No risk, just results.
 
 Nationwide Delivery
 
-We deliver to Lagos, Abuja, Port Harcourt, and all states across Nigeria.
+- We deliver to Lagos, Abuja, Port Harcourt, and all states across Nigeria.
 
 
 3. Product: The Beginner Copywriting Blueprint
@@ -325,7 +325,7 @@ Click the button below to start your copywriting journey today:
 
 - Start now. Learn fast. Earn sooner.
 
-- Click “Get Started Now” and take control of your income today.
+Click “Get Started Now” and take control of your income today.
 
 
 ### Project 5: Website Content Writing
