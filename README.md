@@ -169,7 +169,7 @@ Social Proof Section:
 “Finally, one app for everything. Love it!” – Tunde A., Abuja
 
 
-Product: Glow Radiance Face Cream (Skincare Product Landing Page (Conversion-Focused Copy))
+- Product: Glow Radiance Face Cream (Skincare Product Landing Page (Conversion-Focused Copy))
 
 Get Clear, Glowing Skin in Just 7 Days — Without Harsh Chemicals
 
