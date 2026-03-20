@@ -1,4 +1,4 @@
-# Copywriting/Content writing-Portfolio
+# Copywriting/Content Writing-Portfolio
 Results-driven copywriter portfolio showcasing persuasive landing pages, email campaigns, product descriptions, and SEO content. Focused on conversion, brand voice, and audience engagement and built to demonstrate creativity, strategy, and real-world marketing impact.
 
 # Core Skills
@@ -167,6 +167,71 @@ Social Proof Section:
 “The SmartHome Hub made my life so easy!” – Jane D., Lagos
 
 “Finally, one app for everything. Love it!” – Tunde A., Abuja
+
+
+Product: Glow Radiance Face Cream (Skincare Product Landing Page (Conversion-Focused Copy))
+
+Get Clear, Glowing Skin in Just 7 Days — Without Harsh Chemicals
+
+Tired of dull skin, dark spots, and breakouts that won’t go away?
+
+Introducing Glow Radiance Face Cream — a powerful, natural skincare solution designed for Nigerian skin and climate.
+
+- Why Thousands Are Switching to Glow Radiance
+- Fades dark spots and acne scars
+- Controls excess oil without drying your skin
+- Brightens your complexion naturally
+- Works perfectly in hot, humid weather
+- Safe for all skin types
+
+What Makes It Different?
+
+- Unlike many creams filled with harsh chemicals, Glow Radiance is made with skin-friendly natural ingredients that nourish your skin while delivering visible results.
+
+- No bleaching. No irritation. Just healthy, radiant skin.
+
+Real Results You Can See
+
+- Smoother skin texture
+- Even skin tone
+- Reduced breakouts in days
+(Before & After images can be placed here)
+
+How to Use?
+
+- Wash your face with a gentle cleanser
+- Apply a small amount of cream
+- Use morning and night for best results
+
+
+Limited Time Offer
+
+Get your Glow Radiance Face Cream today at a special discounted price.
+
+Don’t wait—your glow-up starts now.
+
+Order Now
+
+Click the button below to place your order and enjoy fast delivery anywhere in Nigeria.
+
+[ORDER NOW]
+
+
+What Customers Are Saying
+
+"My dark spots started fading in just a week!" – Chioma A.
+
+"Perfect for my oily skin. No more shine!" – Tunde K.
+
+100% Satisfaction Guarantee
+
+If you’re not satisfied, we’ll make it right. No risk, just results.
+
+Nationwide Delivery
+
+We deliver to Lagos, Abuja, Port Harcourt, and all states across Nigeria.
+
+
 
 ### Project 5: Website Content Writing
 -Description: Crafting clear, engaging, and SEO-friendly content that connects with your audience and boosts your online presence
