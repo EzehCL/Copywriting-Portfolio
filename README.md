@@ -44,15 +44,15 @@ Keep your devices charged anywhere! UltraCharge 20,000mAh ensures you never run 
 3.	Product: AeroFit Smartwatch
   
 Track your fitness, sleep, and heart rate with AeroFit. Stylish, water-resistant, and perfect for all-day wear. Never miss a step towards a healthier you.
--	Product: CozyHome Weighted Blanket
+4.	Product: CozyHome Weighted Blanket
   
 Sleep better and reduce stress with CozyHome’s 15lb weighted blanket. Soft, breathable, and perfect for a calming night’s rest.
 
-4.	Product: TasteMate Electric Grill
+5. Product: TasteMate Electric Grill
   
 Grill indoors anytime! TasteMate Electric Grill cooks meat, veggies, and fish evenly without smoke. Compact and easy to clean – your BBQ anytime, anywhere.
 
-5.	Product: SparkWave Bluetooth Earbuds
+6.	Product: SparkWave Bluetooth Earbuds
   
 Experience rich sound and deep bass with SparkWave. Wireless, comfortable, and long-lasting battery life for music lovers on the go. 
 
