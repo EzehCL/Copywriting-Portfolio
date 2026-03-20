@@ -245,7 +245,7 @@ Helping Businesses Grow Through Smart Digital Marketing.
 
 Subheadline:
 
-We provide strategic digital marketing solutions that help brands increase visibility, attract customers, and drive business growth.
+We deliver strategic digital marketing that helps brands increase visibility, attract customers, and grow.
 
 About the Company:
 
