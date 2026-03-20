@@ -162,23 +162,23 @@ Headline: Control Your Entire Home from One Place
 Sub headline: The SmartHome Hub connects your lights, thermostat, security, and more — all from your phone.
 
 Features Section:
-One App to Rule Them All
-Voice Control Compatible
-Energy-Saving Smart Automation
+- One App to Rule Them All
+- Voice Control Compatible
+- Energy-Saving Smart Automation
 
 
 CTA (Call to Action):
 
-“Get Your SmartHome Hub Today & Transform Your Home!”
+- “Get Your SmartHome Hub Today & Transform Your Home!”
 
 Social Proof Section:
 
-“The SmartHome Hub made my life so easy!” – Jane D., Lagos
+- “The SmartHome Hub made my life so easy!” – Jane D., Lagos
 
-“Finally, one app for everything. Love it!” – Tunde A., Abuja
+- “Finally, one app for everything. Love it!” – Tunde A., Abuja
 
 
-2. Product: Glow Radiance Face Cream (Skincare Product Landing Page (Conversion-Focused Copy))
+2. Product: Glow Radiance Face Cream (Skincare Product Landing Page (Conversion-Focused))
 
 Get Clear, Glowing Skin in Just 7 Days — Without Harsh Chemicals
 
