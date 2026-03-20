@@ -314,7 +314,7 @@ Many real estate companies now offer instalment payment options, making land own
 Genuine land comes with verified documents such as the Deed of Assignment and the Survey Plan, ensuring your investment is safe.
 
 5. High Return on Investment
-As development continues, land value appreciates significantly over time, giving you excellent returns.
+As development progresses, land value appreciates significantly, delivering excellent returns.
 
 Conclusion
 Whether you plan to build or resell, investing in land today positions you for financial growth tomorrow.
@@ -337,11 +337,11 @@ Boosts Sales: More traffic can lead to more conversions
 
 Key Elements of SEO Writing
 
-Keyword research
-Engaging headlines
-Proper formatting
-Internal and external linking
-High-quality, valuable content
+1. Keyword research
+2. Engaging headlines
+3. Proper formatting
+4. Internal and external linking
+5. High-quality, valuable content
 
 Final Thoughts
 
