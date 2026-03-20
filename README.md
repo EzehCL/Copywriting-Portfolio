@@ -150,6 +150,120 @@ Enrol today and get free access to our coding community!
 
 Start Coding → Enrol now
 
+
+3. Email Marketing Sequence (5-Part Email Marketing Funnel (Lead Nurture + Sales Conversion)
+
+Product: The Beginner Copywriting Blueprint
+
+- Email 1: Welcome Email
+Subject: Welcome! Your journey to earning online starts here
+
+Hi there,
+
+Welcome! You’re officially on your way to learning a skill that can change your income and your lifestyle—copywriting.
+
+If you’ve ever wanted to make money online but didn’t know where to start, you’re in the right place.
+
+Over the next few days, I’ll show you:
+- How copywriting works
+- Why is it one of the easiest skills to start
+- How beginners are landing clients (even with zero experience)
+
+Stay with me—you’re about to discover something powerful.
+
+Talk soon,
+Lawrence Ezeh
+
+- Email 2: Problem + Education
+
+Subject: Why most people fail to make money online
+
+Hi,
+
+Let’s be honest…
+
+Most people try to make money online and fail.
+
+Not because they’re not smart—but because they’re doing the wrong things:
+- Jumping from one method to another
+- Watching endless videos with no action
+- Not learning a real, valuable skill
+
+That’s where copywriting is different.
+
+It’s a skill businesses NEED. And they’re willing to pay for it.
+
+In the next email, I’ll show you how beginners are using it to earn—even without experience.
+
+Stay tuned.
+
+- Email 3: Solution Introduction⁰
+
+Subject: How beginners are getting paid to write
+
+Hi,
+
+Here’s the truth:
+
+You don’t need to be an expert writer to start copywriting.
+
+You just need a system.
+
+That’s exactly what the Beginner Copywriting Blueprint gives you—a clear, step-by-step path to:
+
+- Learn fast
+- Build simple samples
+- Start getting clients
+- No guesswork. No confusion.
+
+Just a proven process that works.
+
+In the next email, I’ll break down exactly what you’ll get inside.
+
+- Email 4: Offer + Details
+
+Subject: Here’s everything you’ll get
+
+Hi,
+
+Let’s break it down.
+
+Inside the Beginner Copywriting Blueprint, you’ll discover:
+
+- Step-by-step beginner training
+- Portfolio samples you can use immediately
+- Client-winning pitch templates
+- Places to find real paying clients
+
+Plus bonuses to help you start faster.
+
+This isn’t theory—it’s practical, beginner-friendly guidance you can act on immediately.
+
+ Get Instant Access Now
+
+Don’t wait too long—this offer won’t last forever.
+
+- Email 5: Urgency + Call to Action
+
+Subject: Last chance to start your copywriting journey
+
+Hi,
+
+This is your reminder.
+
+Opportunities like this don’t stay open forever.
+
+Right now, you have the chance to learn a skill that can:
+- Pay you online
+- Give you freedom
+- Open doors globally
+
+But only if you take action.
+
+ Start Now
+
+Your future self will thank you for this decision.
+
 ### Project 4: Landing Page 
 -Description: Persuasive content that turns traffic into action.
 
