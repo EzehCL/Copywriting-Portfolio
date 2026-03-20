@@ -269,7 +269,8 @@ Your future self will thank you for this decision.
 -Description: Persuasive content that turns traffic into action.
 
 -Goal:  To capture attention, clearly communicate value, and drive visitors to take a specific action—whether that’s signing up, purchasing, or downloading.
-1. Product: SmartHome Hub
+
+- Product: SmartHome Hub
 
 Headline: Control Your Entire Home from One Place 
 
@@ -292,7 +293,7 @@ Social Proof Section:
 - “Finally, one app for everything. Love it!” – Tunde A., Abuja
 
 
-2. Product: Glow Radiance Face Cream (Skincare Product Landing Page (Conversion-Focused))
+- Product: Glow Radiance Face Cream (Skincare Product Landing Page (Conversion-Focused))
 
 Get Clear, Glowing Skin in Just 7 Days — Without Harsh Chemicals
 
@@ -355,7 +356,7 @@ Nationwide Delivery
 - We deliver to Lagos, Abuja, Port Harcourt, and all states across Nigeria.
 
 
-3. Product: The Beginner Copywriting Blueprint
+- Product: The Beginner Copywriting Blueprint
 
 Finally Learn How to Make Money Writing — Even If You’re Starting From Zero
 
