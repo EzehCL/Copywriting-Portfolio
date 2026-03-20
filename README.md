@@ -450,20 +450,20 @@ Click “Get Started Now” and take control of your income today.
 
 -Goal:  To create clear, engaging content that attracts, informs, and converts visitors
 
--	Homepage Content – GreenLife Herbal Supplement Company
+### Homepage Content – GreenLife Herbal Supplement Company
 
-Homepage
+#### Homepage
 
 
-Headline:
+#### Headline:
 
 Natural Wellness for a Healthier Life.
 
-Sub-headline:
+#### Sub-headline:
 Premium herbal supplements carefully formulated to support your health, boost energy, and improve overall wellbeing naturally.
 
 
-About Us:
+#### About Us:
 
 At GreenLife Herbal Supplements, we believe that nature provides powerful solutions for maintaining good health. Our mission is to create high-quality herbal supplements made from carefully selected natural ingredients.
 
@@ -472,7 +472,7 @@ Our products are developed using traditional herbal knowledge combined with mode
 We are committed to helping individuals improve their well-being through trusted natural health solutions.
 
 
-Our Products:
+#### Our Products:
 
 Immune Support Formula:
 A powerful blend of natural herbs designed to help strengthen the body's immune system and promote overall wellness.
@@ -484,7 +484,7 @@ Detox Herbal Blend:
 A gentle herbal formula designed to support the body's natural detoxification process and promote digestive health.
 
 
-Why Choose Our Herbal Supplements:
+#### Why Choose Our Herbal Supplements:
 
 Natural Ingredients
 Our supplements are made with carefully sourced herbal ingredients.
@@ -495,18 +495,18 @@ Every product is produced under strict quality standards to ensure purity and sa
 Holistic Wellness
 Our formulas are designed to support overall health and balance.
 
-Our Commitment:
+#### Our Commitment:
 
 We are dedicated to providing herbal supplements that support healthier lifestyles while maintaining transparency and quality in everything we do.
 
 
-Call to Action:
+#### Call to Action:
 
 Take the natural path to better health.
 Explore our herbal supplements today and start your journey toward improved wellness.
 
 
-Contact Us:
+#### Contact Us:
 
 Have questions about our products?
 
@@ -514,107 +514,109 @@ Our team is ready to help you choose the right herbal supplements for your healt
 
 Contact us today to learn more.
 
-- Homepage Content – Digital Marketing Agency
+### Homepage Content – Digital Marketing Agency
 
-Headline:
+#### Headline:
 
 Helping Businesses Grow Through Smart Digital Marketing.
 
-Subheadline:
+#### Subheadline:
 
 We deliver strategic digital marketing that helps brands increase visibility, attract customers, and grow.
 
-About the Company:
+#### About the Company:
 
 Our team specializes in creating effective marketing strategies tailored to each client's business goals. From content creation to online advertising, we help businesses reach the right audience and build a strong online presence.
 
 
-Our Services:
+#### Our Services:
 
-Search Engine Optimization (SEO)
-Content Marketing
-Social Media Marketing
-Email Marketing Campaigns
-Website Content Writing
+- Search Engine Optimization (SEO)
+- Content Marketing
+- Social Media Marketing
+- Email Marketing Campaigns
+- Website Content Writing
 
 
-Why Choose Us:
+#### Why Choose Us:
 
 We combine creativity, data-driven strategies, and industry insights to deliver marketing solutions that produce measurable results.
 
-Call to Action:
+#### Call to Action:
 
 Ready to grow your business online?
 Contact us today to discuss your marketing goals.
 
-### Project 6: SEO Articles
-- Skincare Article
+## Project 6: SEO Articles
+### Skincare Article
   
-Title: 5 Effective Skincare Routines for Oily Skin in Nigeria
+#### Title: 5 Effective Skincare Routines for Oily Skin in Nigeria
 
 Oily skin can be frustrating—especially in Nigeria’s hot and humid climate. Excess oil often leads to clogged pores, acne breakouts, and a constant shiny appearance. The good news? With the right skincare routine, you can control oil and maintain healthy, glowing skin.
 
-1. Use a Gentle Cleanser Twice Daily
+- Use a Gentle Cleanser Twice Daily
 Start and end your day with a mild, oil-free cleanser. This removes dirt, sweat, and excess oil without stripping your skin.
 
-2. Apply a Toner
+- Apply a Toner
 A good toner helps tighten pores and reduce oil production. Look for ingredients like witch hazel or niacinamide.
 
-3. Moisturize (Yes, You Need It!)
+- Moisturize (Yes, You Need It!)
 Skipping moisturizer can actually make your skin produce more oil. Use a lightweight, non-comedogenic moisturizer.
 
-4. Use Sunscreen Daily
+- Use Sunscreen Daily
 The Nigerian sun is intense. Use an oil-free SPF 30+ sunscreen to protect your skin and prevent damage.
 
-5. Exfoliate 2–3 Times a Week
+- Exfoliate 2–3 Times a Week
 Exfoliating removes dead skin cells and prevents clogged pores. Avoid over-exfoliating to prevent irritation.
 
-Final Thoughts
+#### Final Thoughts
+
 Consistency is key. With the right routine, oily skin can be managed effectively, giving you a fresh, confident look every day.
 
 
-- Real Estate Article (Local Business Content)
+### Real Estate Article (Local Business Content)
   
-Title: Why You Should Invest in Land in Rivers State Now
+#### Title: Why You Should Invest in Land in Rivers State Now
 
 Land investment in Rivers State is quickly becoming one of the smartest financial decisions you can make today. With rapid development and increasing demand, property values are rising steadily.
 
 Fast-Growing Development Areas
 Areas like Etche, Obio-Akpor, and Eleme are experiencing rapid infrastructure growth, making them hotspots for future investment.
 
-1. Affordable Entry Prices
+- Affordable Entry Prices
 Compared to Lagos or Abuja, land in Rivers State is still relatively affordable, allowing investors to enter the market early.
 
-2. Flexible Payment Plans
+- Flexible Payment Plans
 Many real estate companies now offer instalment payment options, making land ownership easier than ever.
 
-3. Secure Documentation
+- Secure Documentation
 Genuine land comes with verified documents such as the Deed of Assignment and the Survey Plan, ensuring your investment is safe.
 
-4. High Return on Investment
+- High Return on Investment
 As development progresses, land value appreciates significantly, delivering excellent returns.
 
-Conclusion
+#### Conclusion
+
 Whether you plan to build or resell, investing in land today positions you for financial growth tomorrow.
 
 
-- Digital Marketing Article (Professional/Tech Sample)
+### Digital Marketing Article (Professional/Tech Sample)
 
-Title: What Is SEO Content Writing and Why Does It Matter?
+#### Title: What Is SEO Content Writing and Why Does It Matter?
 
 In today’s digital world, having an online presence is not enough—you need visibility. This is where SEO content writing comes in.
 
-What Is SEO Content Writing?
+#### What Is SEO Content Writing?
 
 SEO (Search Engine Optimization) content writing is the process of creating content that ranks on search engines like Google.
 
-Why It Matters
+#### Why It Matters
 
 - Increases Website Traffic: Higher rankings bring more visitors
 - Builds Authority: Quality content establishes trust
 - Boosts Sales: More traffic can lead to more conversions
 
-Key Elements of SEO Writing
+#### Key Elements of SEO Writing
 
 - Keyword research
 - Engaging headlines
@@ -622,7 +624,7 @@ Key Elements of SEO Writing
 - Internal and external linking
 - High-quality, valuable content
 
-Final Thoughts
+#### Final Thoughts
 
 SEO content writing is a powerful tool for businesses looking to grow online. When done correctly, it drives consistent, long-term results.
 
