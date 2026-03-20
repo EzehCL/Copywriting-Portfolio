@@ -33,22 +33,26 @@ Results-driven copywriter portfolio showcasing persuasive landing pages, email c
 -Description: These are clear, persuasive product descriptions that highlight benefits, build trust, and turn browsers into buyers
 
 -Goal: This is to increase product appeal and online sales
--	Product: Zealot S39 Bluetooth Speaker
+1.	Product: Zealot S39 Bluetooth Speaker
   
 Experience powerful sound wherever you are with the Zealot S39 Portable Bluetooth Speaker. Designed for deep bass and crystal-clear audio, it connects effortlessly to your smartphone and delivers hours of uninterrupted music. Perfect for travel, outdoor adventures, and everyday listening.
--	Product: UltraCharge Power Bank 20,000mAh
+
+2.	Product: UltraCharge Power Bank 20,000mAh
   
 Keep your devices charged anywhere! UltraCharge 20,000mAh ensures you never run out of battery while travelling. Compact, fast-charging, and reliable.
--	Product: AeroFit Smartwatch
+
+3.	Product: AeroFit Smartwatch
   
 Track your fitness, sleep, and heart rate with AeroFit. Stylish, water-resistant, and perfect for all-day wear. Never miss a step towards a healthier you.
 -	Product: CozyHome Weighted Blanket
   
 Sleep better and reduce stress with CozyHome’s 15lb weighted blanket. Soft, breathable, and perfect for a calming night’s rest.
--	Product: TasteMate Electric Grill
+
+4.	Product: TasteMate Electric Grill
   
 Grill indoors anytime! TasteMate Electric Grill cooks meat, veggies, and fish evenly without smoke. Compact and easy to clean – your BBQ anytime, anywhere.
--	Product: SparkWave Bluetooth Earbuds
+
+5.	Product: SparkWave Bluetooth Earbuds
   
 Experience rich sound and deep bass with SparkWave. Wireless, comfortable, and long-lasting battery life for music lovers on the go. 
 
@@ -56,13 +60,14 @@ Experience rich sound and deep bass with SparkWave. Wireless, comfortable, and l
 -Description: Crafting scroll-stopping ads on both Instagram and Facebook that capture attention, spark interest, and drive clicks, leads, and sales.
 
 -Goal: The goal of social media ads copywriting is to capture attention, engage the audience, and drive specific actions like clicks, leads, or sales.
--	Fitness Program
+1.	Fitness Program
 Headline: Transform Your Body in 30 Days
 
 “Tired of workouts that don’t deliver results? Join our 30-Day Fitness Boost Program and start seeing real changes in your strength, energy, and confidence. No complicated routines — just proven workouts that work.”
 
 Call to Action: Start Your Transformation Today.
--	Product: GlowSkin Serum
+
+2.	Product: GlowSkin Serum
   
 Want radiant skin in just 7 days?
 
@@ -71,7 +76,7 @@ Headline: GlowSkin Serum nourishes your skin with natural ingredients for that y
 
 Order now and get 1 free travel-size bottle!
 
--	Product: FlexFit Yoga Mat
+3.	Product: FlexFit Yoga Mat
   
 Stretch. Sweat. Shine. 
 
@@ -80,7 +85,7 @@ Perfect for home workouts or studio classes!
 
 Tap “Shop Now” and start your fitness journey!
 
--	Product: Luxury 3-Bedroom Duplex (Real Estate Ad)
+4.	Product: Luxury 3-Bedroom Duplex (Real Estate Ad)
   
 Own Your Dream Home in Port Harcourt!
 
@@ -91,7 +96,7 @@ Limited units available – don’t miss out!
 
 Call now to book a viewing and secure your home today!
 
--	Event: Sunday Revival Service
+5.	Event: Sunday Revival Service
   
 Join Us for a Life-Changing Sunday Service!
 
@@ -102,7 +107,7 @@ Bring your friends & family – all are welcome!
 
 Come expecting miracles.
 
-- Product: NaijaTrend Ankara Dresses
+6. Product: NaijaTrend Ankara Dresses
 
  Stand Out in Style!
 
