@@ -126,7 +126,7 @@ Shop now & get FREE delivery within Abuja!
 - Create Desire (limited stock, special perks)
 - Prompt Action (Call now, Shop now)
 
-## Project 3: Email Marketing Copy 
+## Project 3: Email Marketing 
 -Description: Crafts persuasive emails that engage readers, drive clicks, and boost conversions.
 
 -Goal: To create compelling email copy that captures attention, nurtures relationships, and drives measurable actions such as clicks, leads, and sales.
@@ -177,7 +177,7 @@ Stay with me—you’re about to discover something powerful.
 Talk soon,
 Lawrence Ezeh
 
-- Email 2: Problem + Education
+#### Email 2: Problem + Education
 
 Subject: Why most people fail to make money online
 
@@ -200,7 +200,7 @@ In the next email, I’ll show you how beginners are using it to earn—even wit
 
 Stay tuned.
 
-- Email 3: Solution Introduction⁰
+#### Email 3: Solution Introduction⁰
 
 Subject: How beginners are getting paid to write
 
@@ -223,7 +223,7 @@ Just a proven process that works.
 
 In the next email, I’ll break down exactly what you’ll get inside.
 
-- Email 4: Offer + Details
+#### Email 4: Offer + Details
 
 Subject: Here’s everything you’ll get
 
@@ -246,7 +246,7 @@ This isn’t theory—it’s practical, beginner-friendly guidance you can act o
 
 Don’t wait too long—this offer won’t last forever.
 
-- Email 5: Urgency + Call to Action
+#### Email 5: Urgency + Call to Action
 
 Subject: Last chance to start your copywriting journey
 
@@ -340,7 +340,7 @@ Order Now
 
 Click the button below to place your order and enjoy fast delivery anywhere in Nigeria.
 
-[ORDER NOW]
+ORDER NOW
 
 
 What Customers Are Saying
@@ -428,7 +428,7 @@ You’ll have a clear roadmap to start earning faster.
 
 Click the button below to start your copywriting journey today:
 
- [GET STARTED NOW]
+ GET STARTED NOW
 
 - 100% Risk-Free Guarantee
 
