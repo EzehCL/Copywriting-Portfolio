@@ -120,13 +120,10 @@ Shop now & get FREE delivery within Abuja!
 
 -Note: These ads follow the AIDA & 4U formulas:
 
-Grab Attention (emojis, bold headlines)
-
-Build Interest (benefits, features)
-
-Create Desire (limited stock, special perks)
-
-Prompt Action (Call now, Shop now)
+- Grab Attention (emojis, bold headlines)
+- Build Interest (benefits, features)
+- Create Desire (limited stock, special perks)
+- Prompt Action (Call now, Shop now)
 
 ### Project 3: Email Marketing Copy 
 -Description: Crafts persuasive emails that engage readers, drive clicks, and boost conversions.
