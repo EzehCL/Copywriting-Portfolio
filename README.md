@@ -29,7 +29,7 @@ Results-driven copywriter portfolio showcasing persuasive landing pages, email c
 
 
 # Projects
-### Project 1: Product Description
+## Project 1: Product Description
 -Description: These are clear, persuasive product descriptions that highlight benefits, build trust, and turn browsers into buyers
 
 -Goal: This is to increase product appeal and online sales
@@ -41,20 +41,20 @@ Experience powerful sound wherever you are with the Zealot S39 Portable Bluetoot
   
 Keep your devices charged anywhere! UltraCharge 20,000mAh ensures you never run out of battery while travelling. Compact, fast-charging, and reliable.
 
-- Product: AeroFit Smartwatch
+### Product: AeroFit Smartwatch
   
 Track your fitness, sleep, and heart rate with AeroFit. Stylish, water-resistant, and perfect for all-day wear. Never miss a step towards a healthier you.
 
-- Product: CozyHome Weighted Blanket
+### Product: CozyHome Weighted Blanket
   
 Sleep better and reduce stress with CozyHome’s 15lb weighted blanket. Soft, breathable, and perfect for a calming night’s rest.
 
 
-- Product: TasteMate Electric Grill
+### Product: TasteMate Electric Grill
   
 Grill indoors anytime! TasteMate Electric Grill cooks meat, veggies, and fish evenly without smoke. Compact and easy to clean – your BBQ anytime, anywhere.
 
-- Product: SparkWave Bluetooth Earbuds
+### Product: SparkWave Bluetooth Earbuds
   
 Experience rich sound and deep bass with SparkWave. Wireless, comfortable, and long-lasting battery life for music lovers on the go. 
 
@@ -63,7 +63,7 @@ Experience rich sound and deep bass with SparkWave. Wireless, comfortable, and l
 
 -Goal: The goal of social media ads copywriting is to capture attention, engage the audience, and drive specific actions like clicks, leads, or sales.
 
-- Fitness Program
+### Fitness Program
 Headline: Transform Your Body in 30 Days
 
 “Tired of workouts that don’t deliver results? Join our 30-Day Fitness Boost Program and start seeing real changes in your strength, energy, and confidence. No complicated routines — just proven workouts that work.”
