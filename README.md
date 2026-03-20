@@ -130,6 +130,7 @@ Shop now & get FREE delivery within Abuja!
 -Description: Crafts persuasive emails that engage readers, drive clicks, and boost conversions.
 
 -Goal: To create compelling email copy that captures attention, nurtures relationships, and drives measurable actions such as clicks, leads, and sales.
+
 - Wellness Brand
 Subject: Your Health Upgrade Starts Today
 
@@ -152,7 +153,7 @@ Enrol today and get free access to our coding community!
 Start Coding → Enrol now
 
 
-- Email Marketing Sequence (5-Part Email Marketing Funnel (Lead Nurture + Sales Conversion)
+-Email Marketing Sequence (5-Part Email Marketing Funnel (Lead Nurture + Sales Conversion)
 
 Product: The Beginner Copywriting Blueprint
 
