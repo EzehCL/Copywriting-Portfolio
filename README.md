@@ -157,7 +157,8 @@ Start Coding → Enrol now
 
 Product: The Beginner Copywriting Blueprint
 
-- Email 1: Welcome Email
+#### Email 1: Welcome Email
+
 Subject: Welcome! Your journey to earning online starts here
 
 Hi there,
