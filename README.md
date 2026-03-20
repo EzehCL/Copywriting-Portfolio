@@ -1,4 +1,4 @@
-# Copywriting-Portfolio
+# Copywriting/Content writing-Portfolio
 Results-driven copywriter portfolio showcasing persuasive landing pages, email campaigns, product descriptions, and SEO content. Focused on conversion, brand voice, and audience engagement and built to demonstrate creativity, strategy, and real-world marketing impact.
 
 # Core Skills
@@ -168,7 +168,8 @@ Social Proof Section:
 
 “Finally, one app for everything. Love it!” – Tunde A., Abuja
 
-### Project 5: Website Content Writing
+## Project 5: Content Writing
+### Project: Website Content Writing
 -Description: Crafting clear, engaging, and SEO-friendly content that connects with your audience and boosts your online presence
 
 -Goal:  To create clear, engaging content that attracts, informs, and converts visitors
