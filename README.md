@@ -289,9 +289,9 @@ CTA (Call to Action):
 
 Social Proof Section:
 
-- “The SmartHome Hub made my life so easy!” – Jane D., Lagos
+“The SmartHome Hub made my life so easy!” – Jane D., Lagos
 
-- “Finally, one app for everything. Love it!” – Tunde A., Abuja
+“Finally, one app for everything. Love it!” – Tunde A., Abuja
 
 
 - Product: Glow Radiance Face Cream (Skincare Product Landing Page (Conversion-Focused))
