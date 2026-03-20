@@ -19,7 +19,7 @@ Results-driven copywriter portfolio showcasing persuasive landing pages, email c
 -	Canva
   
 # Professional Experience
-- Freelance Copywriter – Remote 						       |                                                            March. 2025 – Present
+## Freelance Copywriter – Remote 						       |                                                            March. 2025 – Present
 
 •	Developing compelling email campaigns and social media posts for 2+ small businesses.
 
@@ -200,7 +200,7 @@ In the next email, I’ll show you how beginners are using it to earn—even wit
 
 Stay tuned.
 
-#### Email 3: Solution Introduction⁰
+#### Email 3: Solution Introduction
 
 Subject: How beginners are getting paid to write
 
