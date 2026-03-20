@@ -30,9 +30,9 @@ Results-driven copywriter portfolio showcasing persuasive landing pages, email c
 
 # Projects
 ## Project 1: Product Description
--Description: These are clear, persuasive product descriptions that highlight benefits, build trust, and turn browsers into buyers
+##### Description: These are clear, persuasive product descriptions that highlight benefits, build trust, and turn browsers into buyers
 
--Goal: This is to increase product appeal and online sales
+##### Goal: This is to increase product appeal and online sales
 ### Product: Zealot S39 Bluetooth Speaker
   
 Experience powerful sound wherever you are with the Zealot S39 Portable Bluetooth Speaker. Designed for deep bass and crystal-clear audio, it connects effortlessly to your smartphone and delivers hours of uninterrupted music. Perfect for travel, outdoor adventures, and everyday listening.
@@ -59,9 +59,9 @@ Grill indoors anytime! TasteMate Electric Grill cooks meat, veggies, and fish ev
 Experience rich sound and deep bass with SparkWave. Wireless, comfortable, and long-lasting battery life for music lovers on the go. 
 
 ## Project 2: Persuasive ads for Facebook and Instagram
--Description: Crafting scroll-stopping ads on both Instagram and Facebook that capture attention, spark interest, and drive clicks, leads, and sales.
+##### Description: Crafting scroll-stopping ads on both Instagram and Facebook that capture attention, spark interest, and drive clicks, leads, and sales.
 
--Goal: The goal of social media ads copywriting is to capture attention, engage the audience, and drive specific actions like clicks, leads, or sales.
+##### Goal: The goal of social media ads copywriting is to capture attention, engage the audience, and drive specific actions like clicks, leads, or sales.
 
 ### Fitness Program
 Headline: Transform Your Body in 30 Days
@@ -127,9 +127,9 @@ Shop now & get FREE delivery within Abuja!
 - Prompt Action (Call now, Shop now)
 
 ## Project 3: Email Marketing 
--Description: Crafts persuasive emails that engage readers, drive clicks, and boost conversions.
+##### Description: Crafts persuasive emails that engage readers, drive clicks, and boost conversions.
 
--Goal: To create compelling email copy that captures attention, nurtures relationships, and drives measurable actions such as clicks, leads, and sales.
+##### Goal: To create compelling email copy that captures attention, nurtures relationships, and drives measurable actions such as clicks, leads, and sales.
 
 ### Wellness Brand
 Subject: Your Health Upgrade Starts Today
@@ -268,9 +268,9 @@ But only if you take action.
 Your future self will thank you for this decision.
 
 ## Project 4: Landing Page 
--Description: Persuasive content that turns traffic into action.
+##### Description: Persuasive content that turns traffic into action.
 
--Goal:  To capture attention, clearly communicate value, and drive visitors to take a specific action—whether that’s signing up, purchasing, or downloading.
+##### Goal:  To capture attention, clearly communicate value, and drive visitors to take a specific action—whether that’s signing up, purchasing, or downloading.
 
 ### Product: SmartHome Hub
 
@@ -446,9 +446,9 @@ Click “Get Started Now” and take control of your income today.
 
 
 ## Project 5: Website Content Writing
--Description: Crafting clear, engaging, and SEO-friendly content that connects with your audience and boosts your online presence
+##### Description: Crafting clear, engaging, and SEO-friendly content that connects with your audience and boosts your online presence
 
--Goal:  To create clear, engaging content that attracts, informs, and converts visitors
+##### Goal:  To create clear, engaging content that attracts, informs, and converts visitors
 
 ### Homepage Content – GreenLife Herbal Supplement Company
 
@@ -548,6 +548,10 @@ Ready to grow your business online?
 Contact us today to discuss your marketing goals.
 
 ## Project 6: SEO Articles
+##### Description: An SEO article is a piece of content written to rank highly on search engines like Google while providing value to readers. It uses targeted keywords, clear structure, engaging headings, and relevant information to attract organic traffic.
+
+##### Goal:  To  answer users’ search queries effectively while improving website visibility and credibility.
+
 ### Skincare Article
   
 #### Title: 5 Effective Skincare Routines for Oily Skin in Nigeria
@@ -600,7 +604,7 @@ As development progresses, land value appreciates significantly, delivering exce
 Whether you plan to build or resell, investing in land today positions you for financial growth tomorrow.
 
 
-### Digital Marketing Article (Professional/Tech Sample)
+### Digital Marketing Article 
 
 #### Title: What Is SEO Content Writing and Why Does It Matter?
 
@@ -629,7 +633,7 @@ SEO (Search Engine Optimization) content writing is the process of creating cont
 SEO content writing is a powerful tool for businesses looking to grow online. When done correctly, it drives consistent, long-term results.
 
 # Education
-- Fontys University of Applied Sciences, Eindhoven, The Netherlands		|		                                      	2019 – 2023
+- Fontys University of Applied Sciences, Eindhoven, The Netherlands		|		                                        	2019 – 2023
   
 Bachelor of Science (BSc) in Industrial Engineering & Management at the Department of Industrial Engineering and Management.
 
