@@ -168,8 +168,7 @@ Social Proof Section:
 
 “Finally, one app for everything. Love it!” – Tunde A., Abuja
 
-## Project 5: Content Writing
-### Project: Website Content Writing
+### Project 5: Website Content Writing
 -Description: Crafting clear, engaging, and SEO-friendly content that connects with your audience and boosts your online presence
 
 -Goal:  To create clear, engaging content that attracts, informs, and converts visitors
@@ -270,6 +269,77 @@ Call to Action:
 
 Ready to grow your business online?
 Contact us today to discuss your marketing goals.
+
+### Project 6: SEO Articles
+- Skincare Article 
+Title: 5 Effective Skincare Routines for Oily Skin in Nigeria
+
+Oily skin can be frustrating—especially in Nigeria’s hot and humid climate. Excess oil often leads to clogged pores, acne breakouts, and a constant shiny appearance. The good news? With the right skincare routine, you can control oil and maintain healthy, glowing skin.
+
+1. Use a Gentle Cleanser Twice Daily
+Start and end your day with a mild, oil-free cleanser. This removes dirt, sweat, and excess oil without stripping your skin.
+
+2. Apply a Toner
+A good toner helps tighten pores and reduce oil production. Look for ingredients like witch hazel or niacinamide.
+
+3. Moisturize (Yes, You Need It!)
+Skipping moisturizer can actually make your skin produce more oil. Use a lightweight, non-comedogenic moisturizer.
+
+4. Use Sunscreen Daily
+The Nigerian sun is intense. Use an oil-free SPF 30+ sunscreen to protect your skin and prevent damage.
+
+5. Exfoliate 2–3 Times a Week
+Exfoliating removes dead skin cells and prevents clogged pores. Avoid over-exfoliating to prevent irritation.
+
+Final Thoughts
+Consistency is key. With the right routine, oily skin can be managed effectively, giving you a fresh, confident look every day.
+
+2. Real Estate Article (Local Business Content)
+Title: Why You Should Invest in Land in Rivers State Now
+
+Land investment in Rivers State is quickly becoming one of the smartest financial decisions you can make today. With rapid development and increasing demand, property values are rising steadily.
+
+1. Fast-Growing Development Areas
+Areas like Etche, Obio-Akpor, and Eleme are experiencing rapid infrastructure growth, making them hotspots for future investment.
+
+2. Affordable Entry Prices
+Compared to Lagos or Abuja, land in Rivers State is still relatively affordable, allowing investors to enter the market early.
+
+3. Flexible Payment Plans
+Many real estate companies now offer installment payment options, making land ownership easier than ever.
+
+4. Secure Documentation
+Genuine land comes with verified documents such as Deed of Assignment and Survey Plan, ensuring your investment is safe.
+
+5. High Return on Investment
+As development continues, land value appreciates significantly over time, giving you excellent returns.
+
+Conclusion
+Whether you plan to build or resell, investing in land today positions you for financial growth tomorrow.
+
+3. Digital Marketing Article (Professional/Tech Sample)
+
+Title: What Is SEO Content Writing and Why Does It Matter?
+
+In today’s digital world, having an online presence is not enough—you need visibility. This is where SEO content writing comes in.
+
+What Is SEO Content Writing?
+SEO (Search Engine Optimization) content writing is the process of creating content that ranks on search engines like Google.
+
+Why It Matters
+Increases Website Traffic: Higher rankings bring more visitors
+Builds Authority: Quality content establishes trust
+Boosts Sales: More traffic can lead to more conversions
+
+Key Elements of SEO Writing
+Keyword research
+Engaging headlines
+Proper formatting
+Internal and external linking
+High-quality, valuable content
+
+Final Thoughts
+SEO content writing is a powerful tool for businesses looking to grow online. When done correctly, it drives consistent, long-term results.
 
 # Education
 - Fontys University of Applied Sciences, Eindhoven, The Netherlands		|		                                      	2019 – 2023
