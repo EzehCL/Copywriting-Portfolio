@@ -58,7 +58,7 @@ Grill indoors anytime! TasteMate Electric Grill cooks meat, veggies, and fish ev
   
 Experience rich sound and deep bass with SparkWave. Wireless, comfortable, and long-lasting battery life for music lovers on the go. 
 
-### Project 2: Persuasive ads for Facebook and Instagram
+## Project 2: Persuasive ads for Facebook and Instagram
 -Description: Crafting scroll-stopping ads on both Instagram and Facebook that capture attention, spark interest, and drive clicks, leads, and sales.
 
 -Goal: The goal of social media ads copywriting is to capture attention, engage the audience, and drive specific actions like clicks, leads, or sales.
@@ -70,7 +70,7 @@ Headline: Transform Your Body in 30 Days
 
 Call to Action: Start Your Transformation Today.
 
-- Product: GlowSkin Serum
+### Product: GlowSkin Serum
   
 Want radiant skin in just 7 days?
 
@@ -79,7 +79,7 @@ Headline: GlowSkin Serum nourishes your skin with natural ingredients for that y
 
 Order now and get 1 free travel-size bottle!
 
-- Product: FlexFit Yoga Mat
+### Product: FlexFit Yoga Mat
   
 Stretch. Sweat. Shine. 
 
@@ -88,7 +88,7 @@ Perfect for home workouts or studio classes!
 
 Tap “Shop Now” and start your fitness journey!
 
-- Product: Luxury 3-Bedroom Duplex (Real Estate Ad)
+### Product: Luxury 3-Bedroom Duplex (Real Estate Ad)
   
 Own Your Dream Home in Port Harcourt!
 
@@ -99,7 +99,7 @@ Limited units available – don’t miss out!
 
 Call now to book a viewing and secure your home today!
 
-- Event: Sunday Revival Service
+### Event: Sunday Revival Service
   
 Join Us for a Life-Changing Sunday Service!
 
@@ -110,7 +110,7 @@ Bring your friends & family – all are welcome!
 
 Come expecting miracles.
 
-- Product: NaijaTrend Ankara Dresses
+### Product: NaijaTrend Ankara Dresses
 
  Stand Out in Style!
 
@@ -126,12 +126,12 @@ Shop now & get FREE delivery within Abuja!
 - Create Desire (limited stock, special perks)
 - Prompt Action (Call now, Shop now)
 
-### Project 3: Email Marketing Copy 
+## Project 3: Email Marketing Copy 
 -Description: Crafts persuasive emails that engage readers, drive clicks, and boost conversions.
 
 -Goal: To create compelling email copy that captures attention, nurtures relationships, and drives measurable actions such as clicks, leads, and sales.
 
-- Wellness Brand
+### Wellness Brand
 Subject: Your Health Upgrade Starts Today
 
 Hi there,
@@ -140,7 +140,7 @@ Imagine waking up every morning feeling energized, focused, and ready to take on
 
 Take the first step toward better health today.
 
-- Online Coding Course
+### Online Coding Course
 Subject: Become a Web Developer in 90 Days 
 
 Hi there,
@@ -153,7 +153,7 @@ Enrol today and get free access to our coding community!
 Start Coding → Enrol now
 
 
--Email Marketing Sequence (5-Part Email Marketing Funnel (Lead Nurture + Sales Conversion)
+### Email Marketing Sequence (5-Part Email Marketing Funnel (Lead Nurture + Sales Conversion)
 
 Product: The Beginner Copywriting Blueprint
 
@@ -266,12 +266,12 @@ But only if you take action.
 
 Your future self will thank you for this decision.
 
-### Project 4: Landing Page 
+## Project 4: Landing Page 
 -Description: Persuasive content that turns traffic into action.
 
 -Goal:  To capture attention, clearly communicate value, and drive visitors to take a specific action—whether that’s signing up, purchasing, or downloading.
 
-- Product: SmartHome Hub
+### Product: SmartHome Hub
 
 Headline: Control Your Entire Home from One Place 
 
@@ -294,7 +294,7 @@ Social Proof Section:
 “Finally, one app for everything. Love it!” – Tunde A., Abuja
 
 
-- Product: Glow Radiance Face Cream (Skincare Product Landing Page (Conversion-Focused))
+### Product: Glow Radiance Face Cream (Skincare Product Landing Page (Conversion-Focused))
 
 Get Clear, Glowing Skin in Just 7 Days — Without Harsh Chemicals
 
@@ -357,7 +357,7 @@ Nationwide Delivery
 - We deliver to Lagos, Abuja, Port Harcourt, and all states across Nigeria.
 
 
-- Product: The Beginner Copywriting Blueprint
+### Product: The Beginner Copywriting Blueprint
 
 Finally Learn How to Make Money Writing — Even If You’re Starting From Zero
 
@@ -444,7 +444,7 @@ Click the button below to start your copywriting journey today:
 Click “Get Started Now” and take control of your income today.
 
 
-### Project 5: Website Content Writing
+## Project 5: Website Content Writing
 -Description: Crafting clear, engaging, and SEO-friendly content that connects with your audience and boosts your online presence
 
 -Goal:  To create clear, engaging content that attracts, informs, and converts visitors
