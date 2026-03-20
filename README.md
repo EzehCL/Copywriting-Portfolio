@@ -62,14 +62,15 @@ Experience rich sound and deep bass with SparkWave. Wireless, comfortable, and l
 -Description: Crafting scroll-stopping ads on both Instagram and Facebook that capture attention, spark interest, and drive clicks, leads, and sales.
 
 -Goal: The goal of social media ads copywriting is to capture attention, engage the audience, and drive specific actions like clicks, leads, or sales.
-1.	Fitness Program
+
+- Fitness Program
 Headline: Transform Your Body in 30 Days
 
 “Tired of workouts that don’t deliver results? Join our 30-Day Fitness Boost Program and start seeing real changes in your strength, energy, and confidence. No complicated routines — just proven workouts that work.”
 
 Call to Action: Start Your Transformation Today.
 
-2.	Product: GlowSkin Serum
+- Product: GlowSkin Serum
   
 Want radiant skin in just 7 days?
 
@@ -78,7 +79,7 @@ Headline: GlowSkin Serum nourishes your skin with natural ingredients for that y
 
 Order now and get 1 free travel-size bottle!
 
-3.	Product: FlexFit Yoga Mat
+- Product: FlexFit Yoga Mat
   
 Stretch. Sweat. Shine. 
 
@@ -87,7 +88,7 @@ Perfect for home workouts or studio classes!
 
 Tap “Shop Now” and start your fitness journey!
 
-4.	Product: Luxury 3-Bedroom Duplex (Real Estate Ad)
+- Product: Luxury 3-Bedroom Duplex (Real Estate Ad)
   
 Own Your Dream Home in Port Harcourt!
 
@@ -98,7 +99,7 @@ Limited units available – don’t miss out!
 
 Call now to book a viewing and secure your home today!
 
-5.	Event: Sunday Revival Service
+- Event: Sunday Revival Service
   
 Join Us for a Life-Changing Sunday Service!
 
@@ -109,7 +110,7 @@ Bring your friends & family – all are welcome!
 
 Come expecting miracles.
 
-6. Product: NaijaTrend Ankara Dresses
+- Product: NaijaTrend Ankara Dresses
 
  Stand Out in Style!
 
