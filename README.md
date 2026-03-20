@@ -633,7 +633,7 @@ SEO (Search Engine Optimization) content writing is the process of creating cont
 SEO content writing is a powerful tool for businesses looking to grow online. When done correctly, it drives consistent, long-term results.
 
 # Education
-- Fontys University of Applied Sciences, Eindhoven, The Netherlands		|		                                        	2019 – 2023
+- Fontys University of Applied Sciences, Eindhoven The Netherlands		|		                                        	2019 – 2023
   
 Bachelor of Science (BSc) in Industrial Engineering & Management at the Department of Industrial Engineering and Management.
 
