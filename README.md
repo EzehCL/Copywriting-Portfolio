@@ -288,7 +288,7 @@ CTA (Call to Action):
 
 - “Get Your SmartHome Hub Today & Transform Your Home!”
 
-Social Proof Section:
+Social Proof:
 
 #### “The SmartHome Hub made my life so easy!” – Jane D., Lagos
 
@@ -415,8 +415,8 @@ You’ll have a clear roadmap to start earning faster.
 
  Real Results From Beginners
 
-- "I got my first client in 2 weeks!" – Daniel K.
-- "This changed everything for me." – Sarah M.
+#### "I got my first client in 2 weeks!" – Daniel K.
+#### "This changed everything for me." – Sarah M.
 
  - Limited Time Offer
 
