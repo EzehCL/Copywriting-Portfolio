@@ -146,7 +146,7 @@ Start Coding → Enrol now
 -Description: Persuasive content that turns traffic into action.
 
 -Goal:  To capture attention, clearly communicate value, and drive visitors to take a specific action—whether that’s signing up, purchasing, or downloading.
-- Product: SmartHome Hub
+1. Product: SmartHome Hub
 
 Headline: Control Your Entire Home from One Place 
 
@@ -169,7 +169,7 @@ Social Proof Section:
 “Finally, one app for everything. Love it!” – Tunde A., Abuja
 
 
-- Product: Glow Radiance Face Cream (Skincare Product Landing Page (Conversion-Focused Copy))
+2. Product: Glow Radiance Face Cream (Skincare Product Landing Page (Conversion-Focused Copy))
 
 Get Clear, Glowing Skin in Just 7 Days — Without Harsh Chemicals
 
