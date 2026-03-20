@@ -33,28 +33,28 @@ Results-driven copywriter portfolio showcasing persuasive landing pages, email c
 -Description: These are clear, persuasive product descriptions that highlight benefits, build trust, and turn browsers into buyers
 
 -Goal: This is to increase product appeal and online sales
-1.	Product: Zealot S39 Bluetooth Speaker
+- Product: Zealot S39 Bluetooth Speaker
   
 Experience powerful sound wherever you are with the Zealot S39 Portable Bluetooth Speaker. Designed for deep bass and crystal-clear audio, it connects effortlessly to your smartphone and delivers hours of uninterrupted music. Perfect for travel, outdoor adventures, and everyday listening.
 
-2. Product: UltraCharge Power Bank 20,000mAh
+- Product: UltraCharge Power Bank 20,000mAh
   
 Keep your devices charged anywhere! UltraCharge 20,000mAh ensures you never run out of battery while travelling. Compact, fast-charging, and reliable.
 
-3. Product: AeroFit Smartwatch
+- Product: AeroFit Smartwatch
   
 Track your fitness, sleep, and heart rate with AeroFit. Stylish, water-resistant, and perfect for all-day wear. Never miss a step towards a healthier you.
 
-4. Product: CozyHome Weighted Blanket
+- Product: CozyHome Weighted Blanket
   
 Sleep better and reduce stress with CozyHome’s 15lb weighted blanket. Soft, breathable, and perfect for a calming night’s rest.
 
 
-5. Product: TasteMate Electric Grill
+- Product: TasteMate Electric Grill
   
 Grill indoors anytime! TasteMate Electric Grill cooks meat, veggies, and fish evenly without smoke. Compact and easy to clean – your BBQ anytime, anywhere.
 
-6. Product: SparkWave Bluetooth Earbuds
+- Product: SparkWave Bluetooth Earbuds
   
 Experience rich sound and deep bass with SparkWave. Wireless, comfortable, and long-lasting battery life for music lovers on the go. 
 
