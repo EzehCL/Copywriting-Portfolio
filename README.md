@@ -290,9 +290,9 @@ CTA (Call to Action):
 
 Social Proof Section:
 
-“The SmartHome Hub made my life so easy!” – Jane D., Lagos
+#### “The SmartHome Hub made my life so easy!” – Jane D., Lagos
 
-“Finally, one app for everything. Love it!” – Tunde A., Abuja
+#### “Finally, one app for everything. Love it!” – Tunde A., Abuja
 
 
 ### Product: Glow Radiance Face Cream (Skincare Product Landing Page (Conversion-Focused))
@@ -345,9 +345,9 @@ ORDER NOW
 
 What Customers Are Saying
 
-- "My dark spots started fading in just a week!" – Chioma A.
+#### "My dark spots started fading in just a week!" – Chioma A.
 
-- "Perfect for my oily skin. No more shine!" – Tunde K.
+#### "Perfect for my oily skin. No more shine!" – Tunde K.
 
 100% Satisfaction Guarantee
 
@@ -548,9 +548,9 @@ Ready to grow your business online?
 Contact us today to discuss your marketing goals.
 
 ## Project 6: SEO Articles
-##### Description: An SEO article is a piece of content written to rank highly on search engines like Google while providing value to readers. It uses targeted keywords, clear structure, engaging headings, and relevant information to attract organic traffic.
+##### Description: To strategically develop a piece of content designed to achieve high visibility on search engine results pages while delivering meaningful value to its target audience. It incorporates well-researched keywords, a clear and logical structure, optimized headings, and relevant, high-quality information. 
 
-##### Goal:  To  answer users’ search queries effectively while improving website visibility and credibility.
+##### Goal:  To  align with user search intent, enhance organic traffic, and strengthen a website’s authority and credibility in its niche.
 
 ### Skincare Article
   
@@ -642,6 +642,6 @@ Bachelor of Science (BSc) in Industrial Engineering & Management at the Departme
 Higher National Diploma (HND) in Business Administration & Management at the School of Business Management and Technology (SBMT)
 
 # Certification
-- Copywriting Essentials | Udemy						                  |                                                      April 2025
-- Social Media Marketing & Ad Copy | LinkedIn Learning         |                                                     May 2025
+### Copywriting Essentials | Udemy						                  |                                                      April 2025
+### Social Media Marketing & Ad Copy | LinkedIn Learning         |                                                     May 2025
 
