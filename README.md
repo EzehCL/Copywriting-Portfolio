@@ -117,16 +117,20 @@ Perfect for weddings, parties, and casual wear.
 Shop now & get FREE delivery within Abuja!
 
 -Note: These ads follow the AIDA & 4U formulas:
+
 Grab Attention (emojis, bold headlines)
+
 Build Interest (benefits, features)
+
 Create Desire (limited stock, special perks)
+
 Prompt Action (Call now, Shop now)
 
 ### Project 3: Email Marketing Copy 
 -Description: Crafts persuasive emails that engage readers, drive clicks, and boost conversions.
 
 -Goal: To create compelling email copy that captures attention, nurtures relationships, and drives measurable actions such as clicks, leads, and sales.
--	Wellness Brand
+1.	Wellness Brand
 Subject: Your Health Upgrade Starts Today
 
 Hi there,
@@ -135,7 +139,7 @@ Imagine waking up every morning feeling energized, focused, and ready to take on
 
 Take the first step toward better health today.
 
--	Online Coding Course
+2.	Online Coding Course
 Subject: Become a Web Developer in 90 Days 
 
 Hi there,
@@ -236,6 +240,92 @@ Nationwide Delivery
 
 We deliver to Lagos, Abuja, Port Harcourt, and all states across Nigeria.
 
+
+3. Product: The Beginner Copywriting Blueprint
+
+Finally Learn How to Make Money Writing — Even If You’re Starting From Zero
+
+- No experience?
+- No portfolio?
+- No clients?
+
+No problem.
+
+
+The Beginner Copywriting Blueprint is your step-by-step guide to turning your writing skills into a profitable online income stream—even as a complete beginner.
+
+Imagine This…
+
+- You wake up to payment alerts on your phone
+- You work from anywhere—your home, your phone, your comfort zone
+- You get paid in dollars for writing simple content
+
+That’s the power of copywriting.
+
+Why Most Beginners Fail
+
+
+Most people struggle because:
+
+- They don’t know where to start
+- They don’t have samples to show clients
+- They don’t know how to find paying clients
+- They waste time on free, confusing information
+
+This course fixes all that.
+
+
+What You’ll Learn Inside
+
+- What copywriting really is (and how it makes money)
+- How to create a simple portfolio that attracts clients
+- Where to find high-paying clients (even as a beginner)
+- How to write content that businesses will pay for
+- Proven message templates to pitch clients
+
+ Bonus Included
+
+- Ready-to-use copywriting samples
+- Client pitch templates
+- Beginner-friendly job list
+
+
+ Why This Is Worth It
+
+Instead of spending months figuring things out…
+
+You’ll have a clear roadmap to start earning faster.
+
+ Real Results From Beginners
+
+- "I got my first client in 2 weeks!" – Daniel K.
+- "This changed everything for me." – Sarah M.
+
+ - Limited Time Offer
+
+- Get instant access today for a discounted price
+.
+- This offer won’t last forever.
+
+ Get Instant Access Now
+
+Click the button below to start your copywriting journey today:
+
+ [GET STARTED NOW]
+
+- 100% Risk-Free Guarantee
+
+- Try it. If you don’t find it helpful, you’re covered.
+
+- No risk. Just an opportunity.
+
+- Final Reminder
+
+- Every day you wait is a missed opportunity.
+
+- Start now. Learn fast. Earn sooner.
+
+- Click “Get Started Now” and take control of your income today.
 
 
 ### Project 5: Website Content Writing
